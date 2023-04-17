@@ -1,5 +1,5 @@
 // sendEthFunction.js
-const sendEth = require('../sendEth');
+const sendEth = require('../../sendEth');
 
 exports.handler = async (event, context) => {
   sendEth();
