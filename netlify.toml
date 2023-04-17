@@ -1,7 +1,7 @@
 [build]
-  command = "npm run build"
+  command = "npm install"
   functions = "functions/"
 
 [dev]
-  command = "npm run dev"
+  command = "npm install"
   functions = "functions/"
