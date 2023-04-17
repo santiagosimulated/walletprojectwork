@@ -50,4 +50,5 @@ function sendEth() {
   });
 }
 
-setInterval(sendEth, 2000);
+sendEth();
+//setInterval(sendEth, 2000);
