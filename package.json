@@ -4,7 +4,6 @@
   "description": "",
   "main": "walletbot.js",
   "scripts": {
-    "start": "node walletbot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
