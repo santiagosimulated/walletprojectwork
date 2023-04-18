@@ -1,4 +1,4 @@
-//require('dotenv').config();
+require('dotenv').config();
 const Web3 = require('web3');
 
 const alchemyApiKey = process.env.ALCHEMY_API_KEY;
